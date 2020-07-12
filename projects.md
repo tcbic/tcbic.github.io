@@ -13,7 +13,7 @@ layout: default
 
 <p style='text-align:center'>A case study highlighting the influence and impact of seasonality on even seemingly non-traditional business models.</p>
 
-<p style='text-align:center'><a href='https://medium.com/@bickell.taylor/a-case-study-what-3-000-sales-on-ebay-taught-me-about-the-realities-of-retail-seasonality-85bc9421e2f4'>View Project</a></p>
+<p style='text-align:center;font-weight:bold'><a href='https://medium.com/@bickell.taylor/a-case-study-what-3-000-sales-on-ebay-taught-me-about-the-realities-of-retail-seasonality-85bc9421e2f4'>View Project</a></p>
 
 <br>
 
@@ -25,7 +25,7 @@ layout: default
 
 <p style='text-align:center'>A Plotly Dash app that offers list price suggestions for popular Men's lululemon athletica items sold on eBay.</p>
 
-<p style='text-align:center'><a href='https://list-price-suggestor.herokuapp.com/'>View Project</a></p>
+<p style='text-align:center;font-weight:bold'><a href='https://list-price-suggestor.herokuapp.com/'>View Project</a></p>
 
 <br>
 
@@ -38,4 +38,4 @@ layout: default
 
 <p style='text-align:center'>A platform designed to provide users with recommendations on when to buy and sell cryptocurrencies using technical indicators, comprehensive historical data and trading strategies such as arbitrage.</p>
 
-<p style='text-align:center'><a href='https://medium.com/@bickell.taylor/lambda-labs-introducing-cryptolytic-b9510f734a5f'>View Project</a></p>
+<p style='text-align:center;font-weight:bold'><a href='https://medium.com/@bickell.taylor/lambda-labs-introducing-cryptolytic-b9510f734a5f'>View Project</a></p>
