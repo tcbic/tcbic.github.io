@@ -40,4 +40,4 @@ layout: default
 
 <!-- [View Project](https://medium.com/@bickell.taylor/lambda-labs-introducing-cryptolytic-b9510f734a5f) -->
 
-<a href='https://medium.com/@bickell.taylor/lambda-labs-introducing-cryptolytic-b9510f734a5f', style='text-align:center'>View Project</a>
+<div style='text-align:center', href='https://medium.com/@bickell.taylor/'>View Project</div>
