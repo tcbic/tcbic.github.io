@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<br>
 
 <h2 style='color:DarkTurquoise;text-align:center'>Projects</h2>
 
