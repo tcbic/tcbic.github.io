@@ -28,7 +28,11 @@ A Plotly Dash app that offers list price suggestions for popular Men's lululemon
 ```
 # Cryptolytic
 ```
+<br>
 
-A platform designed to provide users with recommendations on when to buy and sell cryptocurrencies using technical indicators, comprehensive historical data and trading strategies such as arbitrage.
+<div style='text-align:center'><img src="/assets/img/Cryptolytic_App.PNG", width="600", height="454"></img></div>
 
-[View Project](https://medium.com/@bickell.taylor/lambda-labs-introducing-cryptolytic-b9510f734a5f)
+
+<p style='text-align:center'>A platform designed to provide users with recommendations on when to buy and sell cryptocurrencies using technical indicators, comprehensive historical data and trading strategies such as arbitrage.</p>
+
+<div>[View Project](https://medium.com/@bickell.taylor/lambda-labs-introducing-cryptolytic-b9510f734a5f)</div>
