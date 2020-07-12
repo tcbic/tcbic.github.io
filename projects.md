@@ -3,11 +3,8 @@ layout: default
 ---
 <br>
 
-<h2 style='text-align:center'>Projects</h2>
+<h2 style='color:DarkTurquoise;text-align:center'>Projects</h2>
 
-<h4 style='text-align:center'><i>Completed Independently and Collaboratively</i></h4>
-
-<br>
 <br>
 
 ```
