@@ -21,7 +21,7 @@ layout: default
 # List Price Suggestor
 ```
 
-![Register](/assets/img/list_price_resize.png)
+![Register](/assets/img/list_price.png)
 
 <p style='text-align:center'>A Plotly Dash app that offers list price suggestions for popular Men's lululemon athletica items sold on eBay.</p>
 
@@ -36,8 +36,6 @@ layout: default
 ![Cryptolytic](/assets/img/Cryptolytic_App.PNG)
 
 
-<p style='text-align:center'>A platform designed to provide users with recommendations on when to buy and sell cryptocurrencies using technical indicators, comprehensive historical data and trading strategies such as arbitrage.</p>
+<p style='text-align:center'>A platform designed to provide users with recommendations on when to buy and sell cryptocurrencies using technical indicators, comprehensive historical data and trading strategies such as arbitrage.</p> 
 
-<!-- [View Project](https://medium.com/@bickell.taylor/lambda-labs-introducing-cryptolytic-b9510f734a5f) -->
-
-<div style='text-align:center', href='https://medium.com/@bickell.taylor/'>View Project</div>
+[View Project](https://medium.com/@bickell.taylor/lambda-labs-introducing-cryptolytic-b9510f734a5f)
