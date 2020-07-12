@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<br>
+## Data friend. Lifelong learner. Team human.
+
 <br>
 
 ```
