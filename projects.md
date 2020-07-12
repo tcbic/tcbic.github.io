@@ -13,7 +13,7 @@ layout: default
 
 <p style='text-align:center'>A case study highlighting the influence and impact of seasonality on even seemingly non-traditional business models.</p>
 
-[View Project](https://medium.com/@bickell.taylor/a-case-study-what-3-000-sales-on-ebay-taught-me-about-the-realities-of-retail-seasonality-85bc9421e2f4)
+<p style='text-align:center'><a href='https://medium.com/@bickell.taylor/a-case-study-what-3-000-sales-on-ebay-taught-me-about-the-realities-of-retail-seasonality-85bc9421e2f4'>View Project</a></p>
 
 <br>
 
@@ -25,7 +25,7 @@ layout: default
 
 <p style='text-align:center'>A Plotly Dash app that offers list price suggestions for popular Men's lululemon athletica items sold on eBay.</p>
 
-[View Project](https://list-price-suggestor.herokuapp.com/)
+<p style='text-align:center'><a href='https://list-price-suggestor.herokuapp.com/'>View Project</a></p>
 
 <br>
 
