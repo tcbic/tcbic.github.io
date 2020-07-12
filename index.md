@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1 style='text-align:center'>Data friend. Lifelong learner. Team human.</h1>
+<h2 style='text-align:center'>Data friend. Lifelong learner. Team human.</h2>
 
 <br>
 
