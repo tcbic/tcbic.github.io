@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<br>
+
 <h2 style='text-align:center;color:DarkTurquoise'>Data friend. Lifelong learner. Team human.</h2>
 
 ```
