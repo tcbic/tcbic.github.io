@@ -7,7 +7,7 @@ layout: default
 ```
 # The Realities of Retail Seasonality
 ```
-<br>
+<!-- <br> -->
 
 ![Retail](/assets/img/ebay_retail_resize.PNG)
 
@@ -15,12 +15,12 @@ layout: default
 
 <p style='text-align:center;font-weight:bold'><a href='https://medium.com/@bickell.taylor/a-case-study-what-3-000-sales-on-ebay-taught-me-about-the-realities-of-retail-seasonality-85bc9421e2f4'>View Project</a></p>
 
-<br>
+<!-- <br> -->
 
 ```
 # List Price Suggestor
 ```
-<br>
+<!-- <br> -->
 
 ![Register](/assets/img/mens_top_styles.PNG)
 
@@ -28,13 +28,13 @@ layout: default
 
 <p style='text-align:center;font-weight:bold'><a href='https://list-price-suggestor.herokuapp.com/'>View Project</a></p>
 
-<br>
+<!-- <br> -->
 
 ```
 # Cryptolytic
 ```
 
-<br>
+<!-- <br> -->
 
 ![Cryptolytic](/assets/img/Cryptolytic_App.PNG)
 
