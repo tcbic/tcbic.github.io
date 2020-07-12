@@ -5,8 +5,6 @@ layout: default
 
 <h2 style='color:DarkTurquoise;text-align:center'>Projects</h2>
 
-<br>
-
 ```
 # The Realities of Retail Seasonality
 ```
