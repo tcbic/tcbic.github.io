@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1 style='text-align:center; color:DarkTurquoise'>Data friend. Lifelong learner. Team human.</h1>
+<p style='text-align:center'><h1 style='color:DarkTurquoise'>Data friend. Lifelong learner. Team human.</h1></p>
 
 <br>
 
