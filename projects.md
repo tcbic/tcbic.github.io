@@ -21,7 +21,7 @@ layout: default
 # List Price Suggestor
 ```
 
-![Register](/assets/img/list_price.png)
+![Register](/assets/img/list_price_suggestor.png)
 
 <p style='text-align:center'>A Plotly Dash app that offers list price suggestions for popular Men's lululemon athletica items sold on eBay.</p>
 
