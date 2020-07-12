@@ -8,6 +8,7 @@ layout: default
 ```
 # The Realities of Retail Seasonality
 ```
+<br>
 
 ![Retail](/assets/img/ebay_retail_resize.PNG)
 
@@ -20,6 +21,7 @@ layout: default
 ```
 # List Price Suggestor
 ```
+<br>
 
 ![Register](/assets/img/mens_top_styles.PNG)
 
@@ -32,6 +34,8 @@ layout: default
 ```
 # Cryptolytic
 ```
+
+<br>
 
 ![Cryptolytic](/assets/img/Cryptolytic_App.PNG)
 
