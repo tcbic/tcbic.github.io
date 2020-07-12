@@ -36,6 +36,4 @@ layout: default
 ![Cryptolytic](/assets/img/Cryptolytic_App.PNG)
 
 
-<p style='text-align:center'>A platform designed to provide users with recommendations on when to buy and sell cryptocurrencies using technical indicators, comprehensive historical data and trading strategies such as arbitrage.</p> 
-
-[View Project](https://medium.com/@bickell.taylor/lambda-labs-introducing-cryptolytic-b9510f734a5f)
+<p style='text-align:center'>A platform designed to provide users with recommendations on when to buy and sell cryptocurrencies using technical indicators, comprehensive historical data and trading strategies such as arbitrage.<a href='https://medium.com/@bickell.taylor/lambda-labs-introducing-cryptolytic-b9510f734a5f'>View Project</a></p>
