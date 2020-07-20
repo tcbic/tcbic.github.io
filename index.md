@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2 style='text-align:center;color:#589CA9'>Data friend. Lifelong learner. Team human.</h2>
+<h2 style='text-align:center;color:mediumturquoise'>Data friend. Lifelong learner. Team human.</h2>
 
 ```
 # About Me

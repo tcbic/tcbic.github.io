@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2 style='color:#589CA9;text-align:center'>Projects</h2>
+<h2 style='color:mediumturquoise;text-align:center'>Projects</h2>
 
 ```
 # The Realities of Retail Seasonality
