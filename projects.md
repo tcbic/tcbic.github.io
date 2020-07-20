@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1 style='text-align:center;font-family:rockwell;color:mediumaquamarine'>Projects</h1>
+<h2 style='text-align:center;font-weight:bold;font-family:rockwell;color:mediumaquamarine'>Projects</h2>
 
 ```
 # The Realities of Retail Seasonality

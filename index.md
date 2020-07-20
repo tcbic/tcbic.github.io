@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1 style='text-align:center;font-family:rockwell;color:mediumaquamarine'>Data friend. Lifelong learner. Team human.</h1>
+<h2 style='text-align:center;font-weight:bold;font-family:rockwell;color:mediumaquamarine'>Data friend. Lifelong learner. Team human.</h2>
 
 ```
 # About Me
