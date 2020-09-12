@@ -4,6 +4,8 @@ layout: default
 
 <h1 style='text-align:center;font-family:Courier New;color:salmon'>Data friend. Lifelong learner. Team human.</h1>
 
+<br>
+
 <h3 style='font-weight:bold;font-family:Courier New'><code># About Me</code></h3>
 
 <h4 style='font-family:Courier New'>Hello, my name is Taylor.</h4>

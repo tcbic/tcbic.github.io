@@ -4,6 +4,8 @@ layout: default
 
 <h1 style='text-align:center;font-family:Courier New;color:salmon'>Projects</h1>
 
+<br>
+
 <h3 style='font-weight:bold;font-family:Courier New'><code># The Realities of Retail Seasonality</code></h3>
 
 <!-- <br> -->
