@@ -14,7 +14,7 @@ layout: default
 
 <p style='text-align:center;font-size:15px;font-family:Courier New'><a href='https://medium.com/@bickell.taylor/a-case-study-what-3-000-sales-on-ebay-taught-me-about-the-realities-of-retail-seasonality-85bc9421e2f4'>View Project</a></p>
 
-<!-- <br> -->
+<br>
 
 <h3 style='font-weight:bold;font-family:Courier New'><code># List Price Suggestor</code></h3>
 <!-- <br> -->
@@ -25,7 +25,7 @@ layout: default
 
 <p style='text-align:center;font-size:15px;font-family:Courier New'><a href='https://list-price-suggestor.herokuapp.com/'>View Project</a></p>
 
-<!-- <br> -->
+<br>
 
 <h3 style='font-weight:bold;font-family:Courier New'><code># Cryptolytic</code></h3>
 
