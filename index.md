@@ -4,9 +4,9 @@ layout: default
 
 <h1 style='text-align:center;font-family:Courier New;color:salmon'>Data friend. Lifelong learner. Team human.</h1>
 
-<h3 style='font-weight:bold;font-family:Courier New'><code># About Me</code></h3>
-
 <br>
+
+<h3 style='font-weight:bold;font-family:Courier New'><code># About Me</code></h3>
 
 <h4 style='font-family:Courier New'>Hello, my name is Taylor.</h4>
 
@@ -28,5 +28,5 @@ layout: default
 <h3 style='font-weight:bold;font-family:Courier New'><code># Education</code></h3>
 
 <!-- <br> -->
-<p style='font-family:Courier New'>Data Science; Lambda School; May 2019- present</p>
+<p style='font-family:Courier New'>Data Science; Lambda School; May 2019 - present</p>
 <p style='font-family:Courier New'>Bachelor of Science Managerial Economics; University of California, Davis; Graduated December 2014</p>
