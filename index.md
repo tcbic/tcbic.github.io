@@ -14,9 +14,7 @@ layout: default
 
 <!-- <br> -->
 
-```
-# Toolkit
-```
+<h3 style='font-weight:bold;font-family:Courier New'><code># Toolkit</code></h3>
 
 <!-- <br> -->
 
@@ -26,9 +24,7 @@ layout: default
 
 <!-- <br> -->
 
-```
-# Education
-```
+<h3 style='font-weight:bold;font-family:Courier New'><code># Education</code></h3>
 
 <!-- <br> -->
 
