@@ -17,17 +17,16 @@ layout: default
 <h3 style='font-weight:bold;font-family:Courier New'><code># Toolkit</code></h3>
 
 <!-- <br> -->
-<p style='font-weight:bold;font-family:Courier New'>Programming Expertise:</p>
+<h4 style='font-family:Courier New'>Programming Expertise:</h4>
 <p style='font-family:Courier New'>Python (pandas, numPy, matplotlib, scikit-learn), SQL</p>
 
-**Skills and Techniques**: exploratory data analysis, feature engineering, data wrangling, data visualizations, statistical analysis, predictive modeling
+<h4 style='font-family:Courier New'>Skills and Techniques:</h4>
+<p style='font-family:Courier New'>exploratory data analysis, feature engineering, data wrangling, data visualizations, statistical analysis, predictive modeling</p>
 
 <!-- <br> -->
 
 <h3 style='font-weight:bold;font-family:Courier New'><code># Education</code></h3>
 
 <!-- <br> -->
-
-**Data Science**; Lambda School; _May 2019 - present_
-
-**B.S. Managerial Economics**; University of California, Davis; _Graduated December 2014_
+<h4 style='font-family:Courier New'>Data Science; Lambda School; May 2019- present</h4>
+<h4 style='font-family:Courier New'>Bachelor of Science Managerial Economics; University of California, Davis; Graduated December 2014</h4>
