@@ -2,11 +2,9 @@
 layout: default
 ---
 
-<h2 style='text-align:center;font-family:Courier New;color:salmon'>Data friend. Lifelong learner. Team human.</h2>
+<h1 style='text-align:center;font-family:Courier New;color:salmon'>Data friend. Lifelong learner. Team human.</h1>
 
-```
-# About Me
-```
+<h3 style='font-family: Courier New'>About Me</h3>
 
 <!-- <br> -->
 
