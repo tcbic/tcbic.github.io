@@ -17,8 +17,8 @@ layout: default
 <h3 style='font-weight:bold;font-family:Courier New'><code># Toolkit</code></h3>
 
 <!-- <br> -->
-
-**Programming Expertise**: Python (pandas, numPy, matplotlib, scikit-learn), SQL
+<p style='font-weight:bold;font-family:Courier New'>Programming Expertise:</p>
+<p style='font-family:Courier New'>Python (pandas, numPy, matplotlib, scikit-learn), SQL</p>
 
 **Skills and Techniques**: exploratory data analysis, feature engineering, data wrangling, data visualizations, statistical analysis, predictive modeling
 
