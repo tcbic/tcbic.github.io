@@ -13,8 +13,9 @@ layout: default
 <p style='font-family:Courier New'>Steve Jobs once said, "You can't connect the dots looking forward; you can only connect them looking backwards." As I think about where I've been, I reflect on the fact that my experiences in non-profit service work and e-commerce share one important theme: a commitment to serve people and community. Curiosity, humility and empathy are the three core values that have helped me live that theme out every day. I believe that our values inform our intention which plays a key role in giving meaning to what we create. With technology becoming an increasingly central part of our world, I see data and analytics as being in a special place to help us enhance experiences and decision making shaped by both our head and heart.
 
 <br>
+<br>
 
-In addition, reading and writing are two meta-habits that drive a lot of my learning and thinking. I recently started a project where I share and explore my thoughts on those topics and more. I'll be posting a link here soon!</p>
+In addition, reading and writing are two meta-habits that drive a lot of my learning and thinking. I recently started a project where I share and explore my thoughts on those topics and more. I'll be sharing a link here soon!</p>
 
 <br>
 
