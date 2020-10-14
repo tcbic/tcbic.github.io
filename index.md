@@ -15,7 +15,7 @@ layout: default
 <br>
 <br>
 
-In addition, reading and writing are two meta-habits that drive a lot of my learning and thinking. I recently started a project where I explore my thoughts on those topics and more. I'll be sharing a link here soon!</p>
+In addition, reading and writing are two meta-habits that drive a lot of my learning and thinking. I recently started a personal project where I explore my thoughts on those topics and more. I'll be sharing a link here soon!</p>
 
 <br>
 
