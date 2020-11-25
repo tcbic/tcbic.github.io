@@ -26,7 +26,7 @@ In addition, reading and writing are two meta-habits that drive a lot of my lear
 <p style='font-family:Courier New'>Python (pandas, numPy, matplotlib, scikit-learn), SQL</p>
 
 <h4 style='font-family:Courier New'>Skills and Techniques:</h4>
-<p style='font-family:Courier New'>exploratory data analysis, feature engineering, data wrangling, data visualizations, statistical analysis, predictive modeling</p>
+<p style='font-family:Courier New'>exploratory data analysis, feature engineering, data wrangling, data visualization, statistical analysis, predictive modeling</p>
 
 <br>
 
