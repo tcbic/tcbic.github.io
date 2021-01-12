@@ -8,12 +8,7 @@ layout: default
 
 <h3 style='font-weight:bold;font-family:Courier New'><code># About Me</code></h3>
 
-<p style='font-family:Courier New'>Steve Jobs once said, "You can't connect the dots looking forward; you can only connect them looking backwards." As I think about where I've been, I reflect on the fact that my experiences in non-profit service work, education and e-commerce share one important theme: a commitment to serve people and community. Curiosity, humility and empathy are the three core values that have helped me live that theme out every day. I believe that our values inform our intention which plays a key role in giving meaning to what we create.
-
-<br>
-<br>
-
-Reading and writing are two meta-habits that drive a lot of my learning and thinking. I recently started a personal project where I share my thoughts on those topics and more <a href="https://taylorbickell.com/">here</a>.</p>
+<p style='font-family:Courier New'>Steve Jobs once said, "You can't connect the dots looking forward; you can only connect them looking backwards." As I think about where I've been, I reflect on the fact that my experiences in non-profit service work, education and e-commerce share one important theme: a commitment to serve people and community. Curiosity, humility and empathy are the three core values that have helped me live that theme out every day.
 
 <br>
 
