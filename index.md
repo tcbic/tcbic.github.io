@@ -8,7 +8,7 @@ layout: default
 
 <h3 style='font-weight:bold;font-family:Courier New'><code># About Me</code></h3>
 
-<p style='font-family:Courier New'>Steve Jobs once said, "You can't connect the dots looking forward; you can only connect them looking backwards." As I think about where I've been, I reflect on the fact that my experiences in non-profit service work, education and e-commerce share one important theme: a commitment to serve people and community. Curiosity, humility and empathy are the three core values that have helped me live that theme out every day.
+<p style='font-family:Courier New'>Steve Jobs once said, "You can't connect the dots looking forward; you can only connect them looking backwards." As I think about where I've been, I reflect on the fact that my experiences in non-profit service work, education and e-commerce share one important theme: a commitment to serve people and community. Curiosity, humility and empathy are the three core values that help me live this theme out every day.
 
 <br>
 <br>
