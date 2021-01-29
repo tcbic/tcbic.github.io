@@ -8,7 +8,9 @@ layout: default
 
 <h3 style='font-weight:bold;font-family:Courier New'><code># About Me</code></h3>
 
-<p style='font-family:Courier New'>Steve Jobs once said, "You can't connect the dots looking forward; you can only connect them looking backwards." As I think about where I've been, I reflect on the fact that my experiences in non-profit service work, education and e-commerce share one important theme: a commitment to serve people and community. Curiosity, humility and empathy are three core values that help me live this theme out every day.
+<p style='font-family:Courier New'>I'm a data scientist with a passion for learning and entrepreneurship. My experience as an eCommerce business owner has given me visibility into how technology is enabling business online. It's this experience that inspired me to pursue data science and devlop tech skills that would enable me to play an active role in the transformation happening not only online but in the physical world.
+
+Reading and writing are two things I do in my spare time. I recently started a project where I share writing online as well as books and blogs I find myself coming back to. You can find that <a href="https://taylorbickell.com/">here.</a>
 
 <br>
 <br>
@@ -27,5 +29,5 @@ layout: default
 <h3 style='font-weight:bold;font-family:Courier New'><code># Education</code></h3>
 
 <!-- <br> -->
-<p style='font-family:Courier New'>Data Science; Lambda School; May 2019 - present</p>
+<p style='font-family:Courier New'>Data Science; Lambda School; May 2019 - August 2020</p>
 <p style='font-family:Courier New'>Bachelor of Science Managerial Economics; University of California, Davis; Graduated December 2014</p>
