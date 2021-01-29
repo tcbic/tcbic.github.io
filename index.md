@@ -11,8 +11,9 @@ layout: default
 <p style='font-family:Courier New'>I'm a data scientist with a passion for learning and entrepreneurship. My experience as an eCommerce business owner has given me visibility into how technology is enabling business online. This inspired me to pursue data science and develop the tech skills that would enable me to play an active role in the transformation happening not only online but in our physical world.
 
 <br>
+<br>
 
-Reading and writing are two things I do in my spare time. I recently started a project where I share writing online as well as books and blogs I find myself coming back to. You can find that <a href="https://taylorbickell.com/">here.</a>
+Reading and writing are two meta-habits that push my learning and thinking. I recently started a project where I share writing online as well as books and blogs I find myself coming back to. You can find that <a href="https://taylorbickell.com/">here.</a>
 
 <br>
 <br>
