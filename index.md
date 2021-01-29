@@ -8,7 +8,7 @@ layout: default
 
 <h3 style='font-weight:bold;font-family:Courier New'><code># About Me</code></h3>
 
-<p style='font-family:Courier New'>I'm a data scientist who gets excited about entrepreneurship and learning new things. My experience as an eCommerce business owner has given me visibility into how technology is enabling business online. In fact, it's what inspired me to pursue data science and develop tech skills that would enable me to play an active role in the transformation happening online and in our physical world.
+<p style='font-family:Courier New'>I'm a data scientist who gets excited about entrepreneurship and learning new things. My experience as an eCommerce business owner has given me visibility into how technology is providing new means for connecting and transacting. In fact, it's what inspired me to pursue data science and develop tech skills that would enable me to play an active role in the fusion of our online and offline worlds.
 
 <br>
 <br>
