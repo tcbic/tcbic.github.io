@@ -8,7 +8,9 @@ layout: default
 
 <h3 style='font-weight:bold;font-family:Courier New'><code># About Me</code></h3>
 
-<p style='font-family:Courier New'>I'm a data scientist with a passion for learning and entrepreneurship. My experience as an eCommerce business owner has given me visibility into how technology is enabling business online. It's this experience that inspired me to pursue data science and devlop tech skills that would enable me to play an active role in the transformation happening not only online but in the physical world.
+<p style='font-family:Courier New'>I'm a data scientist with a passion for learning and entrepreneurship. My experience as an eCommerce business owner has given me visibility into how technology is enabling business online. This inspired me to pursue data science and develop the tech skills that would enable me to play an active role in the transformation happening not only online but in our physical world.
+
+<br>
 
 Reading and writing are two things I do in my spare time. I recently started a project where I share writing online as well as books and blogs I find myself coming back to. You can find that <a href="https://taylorbickell.com/">here.</a>
 
