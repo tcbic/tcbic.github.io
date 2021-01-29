@@ -32,5 +32,5 @@ Reading and writing are two meta-habits that drive most of my learning and think
 <h3 style='font-weight:bold;font-family:Courier New'><code># Education</code></h3>
 
 <!-- <br> -->
-<p style='font-family:Courier New'>Data Science; Lambda School; May 2019 - August 2020</p>
+<p style='font-family:Courier New'>Data Science; Lambda School; May 2019 - 2020</p>
 <p style='font-family:Courier New'>Bachelor of Science Managerial Economics; University of California, Davis; Graduated December 2014</p>
