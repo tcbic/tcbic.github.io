@@ -13,7 +13,7 @@ layout: default
 <br>
 <br>
 
-Reading and writing are two meta-habits that drive most of my learning and thinking. I recently started a project where I share my writing online as well as books and blogs I find myself coming back to. You can find that <a href="https://taylorbickell.com/">here</a>.
+Reading and writing are two meta-habits that drive most of my learning and thinking. I recently started a project where I share my writing as well as books and blogs I find myself coming back to. You can find that <a href="https://taylorbickell.com/">here</a>.
 
 <br>
 <br>
