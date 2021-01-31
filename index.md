@@ -8,12 +8,12 @@ layout: default
 
 <h3 style='font-weight:bold;font-family:Courier New'><code># About Me</code></h3>
 
-<p style='font-family:Courier New'>I'm a data scientist who gets excited about entrepreneurship and learning new things. My experience as an eCommerce business owner has given me visibility into how technology is providing new means for connecting and transacting. In fact, it's what inspired me to pursue data science and develop tech skills that would enable me to play an active role in the fusion of our online and offline worlds.
+<p style='font-family:Courier New'>I'm a data scientist who gets excited about learning new things. My experience as an eCommerce business owner has given me visibility into how technology is providing new means for connecting and transacting. In fact, it's what inspired me to pursue data science and develop skills that would enable me to play an active role in the fusion of our online and offline worlds.
 
 <br>
 <br>
 
-Reading and writing are two meta-habits that drive most of my learning and thinking. I recently started a project where I share my writing as well as books and blogs I find myself coming back to. You can find that <a href="https://taylorbickell.com/">here</a>.
+In addition, reading and writing are two meta-habits that drive most of my learning and thinking. I recently started a project where I share some of my own writing along with blogs and books I find myself coming back to. You can find that <a href="https://taylorbickell.com/">here</a>.
 
 <br>
 <br>
