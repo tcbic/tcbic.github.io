@@ -22,7 +22,7 @@ In addition, reading and writing drive most of my learning and thinking. I recen
 
 <!-- <br> -->
 <h4 style='font-family:Courier New'>Programming Expertise:</h4>
-<p style='font-family:Courier New'>Python (pandas, numPy, matplotlib, scikit-learn), SQL</p>
+<p style='font-family:Courier New'>Python (pandas, numPy, matplotlib, scikit-learn), SQL, Excel</p>
 
 <h4 style='font-family:Courier New'>Skills and Techniques:</h4>
 <p style='font-family:Courier New'>exploratory data analysis, feature engineering, data wrangling, data visualization, statistical analysis, predictive modeling, machine learning</p>
